@@ -325,21 +325,17 @@ EPAC / UAC
 
 ## Development Philosophy
 
-<div align="center">
-
-```
-"Code is poetry written in logic,                          
-   Design is art painted with pixels,                        
-   Development is the bridge between dreams and reality."    
+Code is poetry written in logic,                          
+Design is art painted with pixels,                        
+Development is the bridge between dreams and reality."    
                                                               
-  - Every line of code is an opportunity to create           
-    something extraordinary   
+Every line of code is an opportunity to create something extraordinary             
+    
 
       Discovery    →     Architecture    →       Development    →       Deployment
          ↓                     ↓                       ↓                     ↓
    Analyze needs       Design systems         Clean, modular        CI/CD & monitoring
    Define tech stack   Database structure     Test-driven           Production ready
-```
 
 </div>
 
